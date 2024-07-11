@@ -43,14 +43,7 @@ const Slick = () => {
       },
     ],
   };
-  const pix = [
-    { id: 1, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-    { id: 2, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-    { id: 3, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-    { id: 4, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-    { id: 5, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-    { id: 6, image: "https://dumocloud.com/_nuxt/slide--1.54646fc0.svg" },
-  ];
+
   return (
     <div className="slider-container overflow-hidden mx-2">
       <Slider {...settings}>

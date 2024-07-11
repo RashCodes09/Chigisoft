@@ -1,5 +1,4 @@
 "use client";
-import { url } from "inspector";
 import Image from "next/image";
 import React, { FC } from "react";
 interface iComp {
@@ -44,8 +43,10 @@ const Component: FC<iComp> = ({
             ""
           ) : (
             <>
-              {imagess.map((el: any) => (
-                <Image src={el} alt="#" width={50} height={50} />
+              {imagess.map((el: any, i: any) => (
+                <div key={i}>
+                  <Image src={el} alt="#" width={50} height={50} />
+                </div>
               ))}
             </>
           )}

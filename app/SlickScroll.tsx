@@ -7,7 +7,7 @@ import { FaBedPulse } from "react-icons/fa6";
 
 const Slick = () => {
   const settings = {
-    dots: FaBedPulse,
+    dots: false,
     infinite: true,
     slidesToShow: 3,
     slidesToScroll: 1,

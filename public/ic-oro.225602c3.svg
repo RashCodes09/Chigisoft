@@ -1,0 +1,11 @@
+<svg id="ic-oro" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_14522" data-name="Path 14522" d="M12,0H28A12,12,0,0,1,40,12V28A12,12,0,0,1,28,40H12A12,12,0,0,1,0,28V12A12,12,0,0,1,12,0Z" fill="#0039d6"/>
+    </clipPath>
+  </defs>
+  <path id="Path_14523" data-name="Path 14523" d="M12,0H28A12,12,0,0,1,40,12V28A12,12,0,0,1,28,40H12A12,12,0,0,1,0,28V12A12,12,0,0,1,12,0Z" fill="#1e1f21"/>
+  <g id="Mask_Group_7" data-name="Mask Group 7" clip-path="url(#clip-path)">
+    <path id="Path_1405" data-name="Path 1405" d="M299.044,33.25a20.209,20.209,0,0,1-27.934,0,18.63,18.63,0,0,1-5.7-13.844,18.635,18.635,0,0,1,5.7-13.829,20.209,20.209,0,0,1,27.933,0,18.635,18.635,0,0,1,5.692,13.829,18.631,18.631,0,0,1-5.7,13.84ZM278.59,25.871a9.163,9.163,0,1,0-2.572-6.465,8.743,8.743,0,0,0,2.574,6.461Z" transform="translate(-275.96 11.343)" fill="#fff"/>
+  </g>
+</svg>
